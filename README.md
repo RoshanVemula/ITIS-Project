@@ -35,4 +35,5 @@ In information systems entropy is defined as the disorder or the randomness of d
 * 1.06 GHz Processor (Minimum)
 
 To run this project, install pycharm (the latest version) and setup the software. Install the above mentioned python packages.
-* To install a python package go to terminal and type the command " pip install package_name "
+* To install a python package, open pycharm > go to terminal > type the command > " pip install package_name "
+* The alternate method is, open command prompt> type the command> " pip install package_name "
