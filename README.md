@@ -7,7 +7,10 @@ Entropy of an Image
 
 # About the Project
 
-Entropy is the disorder or the randomness of data in terms of information terminology. The aim of the project is to find the entropy of an image and map 10 dominant colours in that image.
+In information systems entropy is defined as the disorder or the randomness of data. The aim of the project is to find the entropy of an image and map 10 dominant colours in that image.
 
 ## Technologies
 * Python
+
+## Versions
+* Python 3.8
