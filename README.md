@@ -1,2 +1,2 @@
                                                                     Entropy of an Image
-![](Images/entropy-hero.png)
+<img src ="Images/entropy-hero.png" width="2000" height="300">
