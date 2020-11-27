@@ -14,7 +14,9 @@ In information systems entropy is defined as the disorder or the randomness of d
 
 ## IDE and Packages 
 * [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-* numpy 
+* [numpy](https://numpy.org/install/)
+* [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+* [scikit-learn](https://scikit-learn.org/0.16/install.html)
 
 
 ## Versions
@@ -22,7 +24,7 @@ In information systems entropy is defined as the disorder or the randomness of d
 * Pycharm 2020.2.4
 * pandas 1.1.4
 * numpy 1.19.4
-* sciKit-learn 0.23.2
+* scikit-learn 0.23.2
 
 
 ## Setup
