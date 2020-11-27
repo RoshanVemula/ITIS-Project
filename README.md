@@ -41,3 +41,6 @@ To run this project, install pycharm (the latest version) and setup the software
 * Before installing packages make sure to have latest version of pip installed in the system. To install pip, open command prompt > type command > "pip install pip"
 * To install a python package, open pycharm > go to terminal > type the command > " pip install package_name "
 * The alternate method is, open command prompt> type the command> " pip install package_name "
+
+## Contributors
+* Roshan Vemula 
