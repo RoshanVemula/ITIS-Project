@@ -1,2 +1,2 @@
 # ITIS-Project
-![](images/entropy-hero.png)
+![](Images/entropy-hero.png)
