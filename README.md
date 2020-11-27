@@ -12,6 +12,10 @@ In information systems entropy is defined as the disorder or the randomness of d
 ## Technologies
 * Python
 
+## IDE and Packages 
+* [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
+* numpy 
+
 
 ## Versions
 * Python 3.8
