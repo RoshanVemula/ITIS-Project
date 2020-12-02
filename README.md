@@ -8,7 +8,7 @@ Entropy of an Image
 # About the Project
 
 In information systems entropy is defined as the disorder or the randomness of data. The aim of the project is to find the entropy of an image and map 10 dominant colours in that image.
-In this project, numpy array is used to create an array of pixels value in each row & column of an image and pandas to covert arrays into serial data and then calculate entropy of that image. The scientific library matplotlib is used to read the input image file; plot the output dominant colors and sciPy library is used to process the image file and to perform certain algorithm to decide the dominant colors in the image .
+In this project, numpy array is used to create an array of pixels value in each row & column of an image and pandas to covert arrays into serial data and then calculate entropy of that image. The scientific library matplotlib is used to read the input image file; plot the output dominant colors and sciPy library is used to process the image file; to perform certain algorithm to decide the dominant colors in the image and finally to calculate the entropy .
 
 ## Technologies
 * Python
